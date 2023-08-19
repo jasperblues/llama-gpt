@@ -111,6 +111,10 @@ Feel free to add your own benchmarks to this table by opening a pull request.
 
 ### Meta Llama 2 70B Chat (GGML q4_0)
 
+| Device                         | Generation speed      |
+| -----------------------------  | ----------------      |
+| GCP e2-standard-16 vCPU (64GB RAM) | 1.75 tokens/sec   |
+
 Unfortunately, we don't have any benchmarks for this model yet. If you have one, please open a pull request to add it to this table.
 
 ## Roadmap and contributing
